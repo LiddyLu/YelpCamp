@@ -1,5 +1,5 @@
 # YelpCamp
-YelpCamp is a yelp-like website for users to post information about campgrounds and leave comments about exsiting campgrounds.
+YelpCamp is a yelp-like website for users to post information about campgrounds and leave comments about exsiting campgrounds. This project is part of Web Development Bootcamp course on Udemy.
 
 ## Intended Users
 People who love camping. 
