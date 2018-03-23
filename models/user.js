@@ -6,6 +6,8 @@ var UserSchema = new mongoose.Schema({
    password: String
 });
 
+// passport-Local Mongoose will add a username, hash and salt field to store the
+// username, the hashed password and the salt value
 UserSchema.plugin(passportLocalMongoose);
 
 module.exports = mongoose.model("User", UserSchema);
